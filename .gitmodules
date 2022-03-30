@@ -1,0 +1,3 @@
+[submodule "generic-bot-example"]
+	path = generic-bot-example
+	url = https://github.com/bouncytorch/generic-bot-example.git
